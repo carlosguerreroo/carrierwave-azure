@@ -6,7 +6,7 @@ Windows Azure blob storage support for [CarrierWave](https://github.com/carrierw
 
 Add this line to your application's Gemfile:
 
-    gem 'carrierwave-azure'
+    gem 'carrierwave-azure-blob'
 
 And then execute:
 
